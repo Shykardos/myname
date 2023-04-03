@@ -11,7 +11,7 @@ repositories {
 
 jar {
     manifest {
-        attributes "Main": "com.goit.dto"
+        attributes "Main-Class": "com.goit.dto.Main"
     }
 
     from {
